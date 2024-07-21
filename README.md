@@ -10,3 +10,4 @@ To see the API response you have to follow the following steps:-
 6. Now you will get the URL.
 7. Now open the URL/docs in the browser, and you will finally open swagger UI of the API.
 8. Now, see the responses of the API.
+9. To close the URL press Ctrl+C in command prompt.
